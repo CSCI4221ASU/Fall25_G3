@@ -33,3 +33,62 @@ Group 3: Lauryn Davis, Cameron Howell, Lauren Flournoy
 
          Link: https://github.com/Lauren3856/CSCI4221-F25.git
          No content
+
+## Project 2
+
+    
+
+    a. Lauryn Davis
+
+         Minutes
+
+            Not provided
+            
+         PBI
+
+            Not provided
+
+            Please work out an actual PBI table, see https://github.com/CSCI4221ASU/Fall25_G1/README.md for an example.
+
+         Prototype
+
+            Not provided
+
+            Please work out an actual prototype, see https://github.com/CSCI4221ASU/Fall25_G1/README.md for an example.
+
+    b. Cameron Howell
+
+         Minutes
+
+            Not provided
+
+         PBI
+
+            Not provided
+
+            Please work out an actual PBI table, see https://github.com/CSCI4221ASU/Fall25_G1/README.md for an example.
+
+         Prototype
+
+            Not provided
+
+            Please work out an actual prototype, see https://github.com/CSCI4221ASU/Fall25_G1/README.md for an example.
+
+
+    c. Lauren Flournoy
+
+         Minutes
+
+            Not provided
+
+           PBI
+
+            Not provided
+
+            Please work out an actual PBI table, see https://github.com/CSCI4221ASU/Fall25_G1/README.md for an example.
+
+         Prototype
+
+            Not provided
+
+            Please work out an actual prototype, see https://github.com/CSCI4221ASU/Fall25_G1/README.md for an example.
