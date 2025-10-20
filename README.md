@@ -48,13 +48,13 @@ Group 3: Lauryn Davis, Cameron Howell, Lauren Flournoy
 
             Not provided
 
-            Please work out an actual PBI table, see [Group 1](https://github.com/CSCI4221ASU/Fall25_G1} for an example.
+            Please work out an actual PBI table, see [Group 1](https://github.com/CSCI4221ASU/Fall25_G1) for an example.
 
          Prototype
 
             Not provided
 
-            Please work out an actual prototype, see [Group 1](https://github.com/CSCI4221ASU/Fall25_G1} for an example.
+            Please work out an actual prototype, see [Group 1](https://github.com/CSCI4221ASU/Fall25_G1) for an example.
 
     b. Cameron Howell
 
@@ -66,13 +66,13 @@ Group 3: Lauryn Davis, Cameron Howell, Lauren Flournoy
 
             Not provided
 
-            Please work out an actual PBI table, see [Group 1](https://github.com/CSCI4221ASU/Fall25_G1} for an example.
+            Please work out an actual PBI table, see [Group 1](https://github.com/CSCI4221ASU/Fall25_G1) for an example.
 
          Prototype
 
             Not provided
 
-            Please work out an actual prototype, see [Group 1](https://github.com/CSCI4221ASU/Fall25_G1} for an example.
+            Please work out an actual prototype, see [Group 1](https://github.com/CSCI4221ASU/Fall25_G1) for an example.
 
 
     c. Lauren Flournoy
@@ -85,10 +85,10 @@ Group 3: Lauryn Davis, Cameron Howell, Lauren Flournoy
 
             Not provided
 
-            Please work out an actual PBI table, see [Group 1](https://github.com/CSCI4221ASU/Fall25_G1} for an example.
+            Please work out an actual PBI table, see [Group 1](https://github.com/CSCI4221ASU/Fall25_G1) for an example.
 
          Prototype
 
             Not provided
 
-            Please work out an actual prototype, see [Group 1](https://github.com/CSCI4221ASU/Fall25_G1} for an example.
+            Please work out an actual prototype, see [Group 1](https://github.com/CSCI4221ASU/Fall25_G1) for an example.
